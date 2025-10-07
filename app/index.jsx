@@ -5,7 +5,7 @@ import { Ionicons } from "@expo/vector-icons";
 
 export default function SensorDataScreen() {
   const screenWidth = Dimensions.get("window").width;
-
+//hello
   const data = {
     labels: [],
     datasets: [
